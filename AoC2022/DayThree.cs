@@ -1,6 +1,6 @@
 ﻿namespace AoC2022
 {
-    public class DayThree
+    public class DayThree : IAdventOfCode
     {
         // https://adventofcode.com/2022/day/3
         public string[] input = File.ReadAllLines("Inputs/Day3Input.txt");

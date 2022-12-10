@@ -1,6 +1,6 @@
 ﻿namespace AoC2022
 {
-    public class DayOne
+    public class DayOne : IAdventOfCode
     {
         // https://adventofcode.com/2022/day/1
 

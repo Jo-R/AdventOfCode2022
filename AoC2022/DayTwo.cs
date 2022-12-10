@@ -1,7 +1,7 @@
 ﻿
 namespace AoC2022
 {
-    public class DayTwo
+    public class DayTwo : IAdventOfCode
     {
         // https://adventofcode.com/2022/day/2
         // A rock B paper C scissors (opponent)
